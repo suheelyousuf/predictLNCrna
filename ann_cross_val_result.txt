@@ -1,0 +1,24 @@
+09/27/2022, 11:04:24
+(57523, 262176)
+Algorith =  Artifical Neural Networks
+Accuarcy: 0.9697
+09/28/2022, 05:57:06
+(57523, 262176)
+Algorith =  Artifical Neural Networks
+Accuarcy: 0.9714
+09/28/2022, 06:49:32
+(57523, 262176)
+Algorith =  Artifical Neural Networks
+Accuarcy: 0.9717
+09/28/2022, 09:53:37
+(57523, 16411)
+Algorith =  Artifical Neural Networks
+Accuarcy: 0.9605
+09/28/2022, 10:55:29
+(57523, 16411)
+Algorith =  Artifical Neural Networks
+Accuarcy: 0.9583
+09/28/2022, 08:04:20
+(57523, 4023147)
+Algorith =  Artifical Neural Networks
+Accuarcy: 0.96

@@ -1,0 +1,205 @@
+(57523, 4023147)
+Confusion matrix for predictions on human test DNA sequence
+
+Predicted     0     1
+Actual               
+0          6617    42
+1          2312  2534
+accuracy = 0.795 
+precision = 0.843 
+recall = 0.795 
+f1 = 0.779
+(57523, 4120)
+Confusion matrix for predictions on human test DNA sequence
+
+Predicted     0     1
+Actual               
+0          5096  1563
+1          1159  3687
+accuracy = 0.763 
+precision = 0.767 
+recall = 0.763 
+f1 = 0.764
+(57523, 262176)
+Confusion matrix for predictions on human test DNA sequence
+
+Predicted     0     1
+Actual               
+0          6255   404
+1          1634  3212
+accuracy = 0.823 
+precision = 0.833 
+recall = 0.823 
+f1 = 0.817
+(57523, 262176)
+Confusion matrix for predictions on human test DNA sequence
+
+Predicted     0     1
+Actual               
+0          6255   404
+1          1634  3212
+accuracy = 0.823 
+precision = 0.833 
+recall = 0.823 
+f1 = 0.817
+(57523, 262176)
+Confusion matrix for predictions on human test DNA sequence
+
+Predicted     0     1
+Actual               
+0          6255   404
+1          1634  3212
+accuracy = 0.823 
+precision = 0.833 
+recall = 0.823 
+f1 = 0.817
+(57523, 262176)
+Confusion matrix for predictions on human test DNA sequence
+
+Predicted     0     1
+Actual               
+0          6202   389
+1          1546  3368
+accuracy = 0.832 
+precision = 0.841 
+recall = 0.832 
+f1 = 0.827
+Algorith =  AdaBoostClassifier
+Accuarcy: 0.8975
+(57523, 65566)
+Confusion matrix for predictions on human test DNA sequence
+
+Predicted     0     1
+Actual               
+0          5906   729
+1          1384  3486
+accuracy = 0.816 
+precision = 0.817 
+recall = 0.816 
+f1 = 0.814
+new run
+Algorith =  AdaBoostClassifier
+Accuarcy: 0.9241
+(57523, 65566)
+Confusion matrix for predictions on human test DNA sequence
+
+Predicted     0     1
+Actual               
+0          5805   742
+1          1352  3606
+accuracy = 0.818 
+precision = 0.819 
+recall = 0.818 
+f1 = 0.816
+new run
+Algorith =  AdaBoostClassifier
+Accuarcy: 0.9241
+(57523, 1046856)
+Confusion matrix for predictions on human test DNA sequence
+
+Predicted     0     1
+Actual               
+0          6569   111
+1          2018  2807
+accuracy = 0.815 
+precision = 0.848 
+recall = 0.815 
+f1 = 0.804
+new run
+Algorith =  AdaBoostClassifier
+Accuarcy: 0.9039
+09/25/2022, 12:33:26
+enter the kmer size09/26/2022, 05:00:13
+(57523, 262176)
+Confusion matrix for predictions on lncRNA using SVm
+
+Predicted     0     1
+Actual               
+0          6433   228
+1           172  4672
+accuracy = 0.965 
+precision = 0.965 
+recall = 0.965 
+f1 = 0.965
+random forest
+Confusion matrix for predictions lncRNA using RandomForest
+
+Predicted     0     1
+Actual               
+0          6465   196
+1           472  4372
+accuracy = 0.942 
+precision = 0.943 
+recall = 0.942 
+f1 = 0.942
+knn
+Confusion matrix for predictions lncRNA using K NeighborsClassifier
+
+Predicted     0     1
+Actual               
+0          2194  4467
+1             8  4836
+accuracy = 0.611 
+precision = 0.796 
+recall = 0.611 
+f1 = 0.574
+Neural Networks
+Confusion matrix for predictions lncRNA using Neural Networks
+
+Predicted     0     1
+Actual               
+0          6459   202
+1           222  4622
+accuracy = 0.963 
+precision = 0.963 
+recall = 0.963 
+f1 = 0.963
+new run
+09/26/2022, 12:32:59
+(57523, 16411)
+Confusion matrix for predictions on lncRNA using SVm
+
+Predicted     0     1
+Actual               
+0          6427   251
+1           278  4549
+accuracy = 0.954 
+precision = 0.954 
+recall = 0.954 
+f1 = 0.954
+random forest
+Confusion matrix for predictions lncRNA using RandomForest
+
+Predicted     0     1
+Actual               
+0          6490   188
+1           616  4211
+accuracy = 0.930 
+precision = 0.932 
+recall = 0.930 
+f1 = 0.930
+knn
+Confusion matrix for predictions lncRNA using K NeighborsClassifier
+
+Predicted     0     1
+Actual               
+0          3387  3291
+1            24  4803
+accuracy = 0.712 
+precision = 0.825 
+recall = 0.712 
+f1 = 0.702
+Neural Networks
+Confusion matrix for predictions lncRNA using Neural Networks
+
+Predicted     0     1
+Actual               
+0          6439   239
+1           297  4530
+accuracy = 0.953 
+precision = 0.953 
+recall = 0.953 
+f1 = 0.953
+new run
+Algorith =  AdaBoostClassifier
+Accuarcy: 0.9086
